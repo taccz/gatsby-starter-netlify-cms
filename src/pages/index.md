@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: TITULEK BY MEEEE
+title: TITULEK BY ME FOR MICHAL
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
